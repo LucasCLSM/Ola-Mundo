@@ -5,6 +5,7 @@
  
  Essa linha eu adicionei diretamento no site! QUE IMPRESSIONANTE!
 
+Meu perfil no **GitHub** é _@LucasCLSM_
 
 Criando uma lista:
 1. Teste1

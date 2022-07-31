@@ -4,3 +4,11 @@
  Repositório criado durante uma aula gravada.
  
  Essa linha eu adicionei diretamento no site! QUE IMPRESSIONANTE!
+
+
+Criando uma lista:
+1. Teste1
+2. Teste2
+3. Teste3
+   1. TesteA
+   2. TesteB

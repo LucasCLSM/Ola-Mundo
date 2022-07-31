@@ -5,11 +5,11 @@
  
  Essa linha eu adicionei diretamento no site! QUE IMPRESSIONANTE!
 
-Meu perfil no **GitHub** é _@LucasCLSM_
+Meu perfil no **GitHub** é [@LucasCLSM](https://https://github.com/LucasCLSM)
 
 Criando uma lista:
 1. Teste1
 2. Teste2
 3. Teste3
-   1. TesteA
-   2. TesteB
+   1. _TesteA_
+   2. _TesteB_
